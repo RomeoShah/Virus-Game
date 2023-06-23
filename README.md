@@ -1,0 +1,3 @@
+# Virus-Game
+Its an simple infinity game Created with unity in 2d with C# Progrramming Language. This game was build watching youtube tutorial, it can be palyed with keyboard Up and Down key. The score is dispalyed at the top center of the game.
+Thankyou play the game and Be happy!...
